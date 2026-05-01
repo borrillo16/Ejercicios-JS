@@ -6,6 +6,7 @@
     color: green;
     font-weight: bold;
 }
-.ul{
+ul{
     list-style: none;
+    padding: 8px;
 }

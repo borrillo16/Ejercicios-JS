@@ -1,0 +1,11 @@
+/* Todas las fotos del carrusel están escondidas */
+.carrusel-imagen {
+    display: none;
+    width: 100%;
+    height: auto;
+}
+
+/* Solo la que tenga esta clase será visible */
+.activa {
+    display: block;
+}
